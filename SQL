@@ -1,0 +1,1 @@
+Sql refers to Structured Query language which is used to communicate with the database to extract or manipulte the data from the database 
